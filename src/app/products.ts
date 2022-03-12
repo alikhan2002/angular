@@ -13,56 +13,71 @@ export const products = [
     description: `Powered by an AMD Ryzen 5 5500U mobile processor with Radeon graphics, this portable notebook computer has 16GB DDR4 RAM and 256GB NVMe SSD Storage
     Reduce the clutter - The Flex 5 14 touchscreen laptop has a narrow bezel on 4 sides for more viewing area and less clutter on the IPS FHD (1920 x 1080) display
     Designed to keep your ideas flowing, anywhere, anytime with the ability to multi-mode, this Windows laptop has a 360⁰ hinge so you can use it in laptop mode for everyday computing, tent mode for sharing, stand mode for binge-watching your favorite streaming shows, or tablet mode for easy interaction
-    A physical shutter on the webcam improves your privacy, allowing you to keep out unwanted attention
-    Stay connected with integrated 2x2 WiFi 6 (802.11AX), Bluetooth 5, 2 USB-A ports, 1 USB-C with PD to support power charging, HDMI, a 4-in-1 card reader, and an audio jack`,
+    A physical shutter on the webcam improves your privacy, allowing you to keep out unwanted attention`,
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras',
+    name: `2022 Lenovo IdeaPad 3i 15 Touchscreen Laptop, Intel i3-1115G4 16GB RAM 512GB SSD, 15.6 FHD Display, Fingerprint Reader, Webcam for Remote School&Work, Premium Lightweight, Windows 11 S, LIONEYE Bundle`,
+    price: 639.99,
+    description: ``,
+    imgURL: 'https://m.media-amazon.com/images/I/61iYCuksroL._AC_SL1200_.jpg',
   },
   {
     id: 3,
     name: 'Phone Standard',
     price: 299,
     description: '',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 1,
+    id: 4,
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 2,
+    id: 5,
     name: 'Phone Mini',
     price: 699,
     description: 'A great phone with one of the best cameras',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 3,
+    id: 6,
     name: 'Phone Standard',
     price: 299,
     description: '',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 1,
+    id: 7,
     name: 'Phone XL',
     price: 799,
     description: 'A large phone with one of the best screens',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 2,
+    id: 8,
     name: 'Phone Mini',
     price: 699,
     description: 'A great phone with one of the best cameras',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
   {
-    id: 3,
+    id: 9,
     name: 'Phone Standard',
     price: 299,
     description: '',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
+  },
+  {
+    id: 10,
+    name: 'Phone Standard',
+    price: 299,
+    description: '',
+    imgURL: 'https://m.media-amazon.com/images/I/71zZiQGzc5L._AC_SL1500_.jpg',
   },
 ];
 
